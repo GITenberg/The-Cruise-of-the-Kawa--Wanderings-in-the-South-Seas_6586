@@ -1,0 +1,28 @@
+_repo: The-Cruise-of-the-Kawa--Wanderings-in-the-South-Seas_6586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chappell, George S. (George Shepard)
+    aliases:
+    - Traprock, Walter E.
+    - Chappell, George Shepard
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '2150'
+    url: http://www.gutenberg.org/2009/agents/2150
+    wikipedia: http://en.wikipedia.org/wiki/George_Shepard_Chappell
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Cruise of the Kawa: Wanderings in the South Seas'
+url: http://www.gutenberg.org/ebooks/6586
